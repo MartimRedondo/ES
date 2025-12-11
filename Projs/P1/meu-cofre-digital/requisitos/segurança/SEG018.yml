@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.18
+links:
+- FUNC006: u0b3ln9ZmnDerTATSKweWZX3x6Yu0fdorgw90DllGLY=
+normative: true
+ref: ''
+reviewed: XnWr8HLDbByCyHL_tQkhiTwrtssqCsdQ6G0O6Ur4F8c=
+text: |
+  Implementar verificação de permissões em cascata na hierarquia de pastas.

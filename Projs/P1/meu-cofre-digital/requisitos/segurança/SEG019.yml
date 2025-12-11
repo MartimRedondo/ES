@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.19
+links:
+- FUNC006: u0b3ln9ZmnDerTATSKweWZX3x6Yu0fdorgw90DllGLY=
+normative: true
+ref: ''
+reviewed: j4eTYqmkgM8W7Z2Y78xgir6zwz5ZNd_1ciglz7_pnx0=
+text: |
+  Implementar verificações de consistência a cada operação de modificação hierarquica.

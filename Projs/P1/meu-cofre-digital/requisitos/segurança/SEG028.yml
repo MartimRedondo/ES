@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.28
+links:
+- FUNC009: pgNUYNaLloRgyEO7MRtjdx7i_hLWDu04qZ7XTZGRY8M=
+normative: true
+ref: ''
+reviewed: Y-eZcHxyJw_yUzGKD9j2AahOP0xpCS4I9wBH73shbwA=
+text: |
+  Implementar sistema de acesso restrito aos logs baseado em hierarquia.

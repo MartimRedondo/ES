@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.5
+links:
+- FUNC001: S8_aU1ofixn-G9fGzbeooV1r7Iz1saQwbFmkYMSUxME=
+normative: true
+ref: ''
+reviewed: SyjFR9IxVkqc-ctGhy6V4xqJGvqsGF6URIkIwK1O9ac=
+text: |
+  Implementar sanitização de inputs, ou seja, evitar que os dados tenham características de metadados.

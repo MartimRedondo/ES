@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.7
+links:
+- FUNC002: 0qQyJ0SEDZ9IU9Gaip_ZGL_wgSGrURl1A3hUA3fxqVM=
+normative: true
+ref: ''
+reviewed: _lnDUDU_d6DHGtCy5zbjlefxYl91sAVBpwUuT6LzkzU=
+text: |
+  Garantir que o identificador único não possa ser alterado,falsificado ou acedido de forma indevida.

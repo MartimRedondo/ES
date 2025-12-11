@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.14
+links:
+- FUNC004: hYwdK8F7hILDQCv9D_-ZGWlvqgi4CW0TvcMe7-htncU=
+normative: true
+ref: ''
+reviewed: Rx8KvBiKIkafUTLmb2Zd7PJinN8v5Ahf1YbwcLVWm9E=
+text: |
+  Proteger metadados sensíveis (data de criação, histórico de acessos,...) com registos de acesso e auditoria.

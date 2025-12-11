@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.33
+links:
+- FUNC011: jP_pgP4llqGahuU7AEp8w2lDn0x31s5wTWe_AcTkpEg=
+normative: true
+ref: ''
+reviewed: 4hEd9eH4UDlgTXzihl3qgWxnw6Dq2m5z9b5_-VxydCo=
+text: |
+  Configurar detecção de padrões anómalos com limite de 200 requisições/minuto de um único IP.

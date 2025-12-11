@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: '1.10'
+links:
+- FUNC003: tra31VZDOHhKjJ5K9FsdVpo0RPPofi2ctXeMy-A5l0M=
+normative: true
+ref: ''
+reviewed: xFJ9lOA4oG3z2fpVzCrzgZtaO2lEUHNZWHPlXYNLvPg=
+text: |
+  Garantir uma gestão segura de sessões com tokens de sessão gerados de forma aleatória e expiração automática após 5 min.

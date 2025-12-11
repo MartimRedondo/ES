@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.11
+links:
+- FUNC003: tra31VZDOHhKjJ5K9FsdVpo0RPPofi2ctXeMy-A5l0M=
+normative: true
+ref: ''
+reviewed: dLumZdhFmyF5xnGUS4uGyeD5Tz_t_G5nfk_oNC5LLqc=
+text: |
+  Configurar TLS 1.3 em todos os endpoints de autenticação.

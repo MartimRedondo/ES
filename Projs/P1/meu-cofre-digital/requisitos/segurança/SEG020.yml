@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: '1.20'
+links:
+- FUNC007: 7MZnnuFmbmnx-x5-MptVMdyI-V52BtS3-ZPPRMSNOPo=
+normative: true
+ref: ''
+reviewed: Rxqw7p1mUU43oZF16xcJ8aNXlv9PyA82to5AvmGlD18=
+text: |
+  Implementar read, append, write com verificação em tempo real.

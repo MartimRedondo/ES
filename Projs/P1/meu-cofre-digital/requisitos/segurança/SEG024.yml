@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.24
+links:
+- FUNC008: RavKYZsffSL_ibYwF8-sh6uEycsV45nX7obCWVT-wHA=
+normative: true
+ref: ''
+reviewed: p4ATWoOBD_yJ3l3EocWltTVQMgrsGJnJCavNobALFxw=
+text: |
+  Garantir a integridade e autenticidade das mensagens com uso de HMAC.

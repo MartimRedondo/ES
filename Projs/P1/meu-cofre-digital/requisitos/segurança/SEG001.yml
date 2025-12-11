@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links:
+- FUNC001: S8_aU1ofixn-G9fGzbeooV1r7Iz1saQwbFmkYMSUxME=
+normative: true
+ref: ''
+reviewed: LoZzn7rq_nccSQ67lMLNJ7D2wUXxIUQ91S2wooGFmnE=
+text: |
+  Implementar validação de formato de email (regex) com verificação de unicidade.

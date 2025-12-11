@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.22
+links:
+- FUNC007: 7MZnnuFmbmnx-x5-MptVMdyI-V52BtS3-ZPPRMSNOPo=
+normative: true
+ref: ''
+reviewed: IbZe1LDfV6cOOtHSGO7JWzVNdUqcPq-n0Q8I9ZXNEYQ=
+text: |
+  Implementar logs de auditoria para todas as alterações de permissões.

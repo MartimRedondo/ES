@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.16
+links:
+- FUNC005: isE3lj18kjxKLEsaSIkW7wvBqzS_kaMLyDHoVNS-LsQ=
+normative: true
+ref: ''
+reviewed: Mi5y_cj1PZJU64nNhtqMMCpCYLkvjAx8YolBLp_XlFY=
+text: |
+  Implementar um mecanismo de registo (logging) de todas as operações realizadas nos ficheiros e pastas, para que seja possível auditar e monitorizar o acesso e as alterações realizadas.

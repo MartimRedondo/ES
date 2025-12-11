@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.3
+links:
+- FUNC001: S8_aU1ofixn-G9fGzbeooV1r7Iz1saQwbFmkYMSUxME=
+normative: true
+ref: ''
+reviewed: l5d9jarw-ej9sOehKYj4HAs1FGCs-FJOJQVZ8zDoVbE=
+text: |
+  Armazenar palavras-passe usando hashing com salt.

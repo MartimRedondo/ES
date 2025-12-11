@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.6
+links:
+- FUNC002: 0qQyJ0SEDZ9IU9Gaip_ZGL_wgSGrURl1A3hUA3fxqVM=
+normative: true
+ref: ''
+reviewed: e_JhPCC4Vp3EkmBAkpNnPdyaypLTq99G0-ZkijZHqK8=
+text: |
+  Utilizar algoritmos comprovados (UUID v4 ou ULID) para gerar identificadores únicos.

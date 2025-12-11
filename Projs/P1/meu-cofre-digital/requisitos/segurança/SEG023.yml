@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.23
+links:
+- FUNC008: RavKYZsffSL_ibYwF8-sh6uEycsV45nX7obCWVT-wHA=
+normative: true
+ref: ''
+reviewed: kDFZzEV_o_okgmZCKGoyitQD2PcWbolmGtY_FK55en8=
+text: |
+  Garantir que toda a comunicação entre cliente e servidor seja encriptad(TLS).

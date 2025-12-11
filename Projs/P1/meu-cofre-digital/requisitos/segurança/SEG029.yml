@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.29
+links:
+- FUNC010: w_Yz8kavvyA7AGrhtbt1OHk_oOvueXSrrKFJKPd8kOU=
+normative: true
+ref: ''
+reviewed: ur20XajKZsVXcWvzM_TiGVyxkq7rKBYnsXZAJFDJJ3I=
+text: |
+  Implementar um método de encriptação para todos os ficheiros (AES-256-GCM).

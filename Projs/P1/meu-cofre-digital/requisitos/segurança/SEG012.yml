@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.12
+links:
+- FUNC003: tra31VZDOHhKjJ5K9FsdVpo0RPPofi2ctXeMy-A5l0M=
+normative: true
+ref: ''
+reviewed: bjk1EYEdj7fYSoB52oTfXNEOQFdZNJLnrM51aOAeXnY=
+text: |
+  Implementar rate limiting de 10 tentativas por minuto por IP.
