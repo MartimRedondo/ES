@@ -1,0 +1,66 @@
+run server: 
+
+- python main_api.py
+
+run client: 
+
+- python client_cli.py register "Martim" martim@example.com 12345
+- python client_cli.py nonce martim@example.com  
+- python client_cli.py login martim@example.com 12345
+- python client_cli.py list-files
+- python client_cli.py upload file_to_send.txt
+- python client_cli.py list-files
+- python client_cli.py read file_to_send.txt
+- python client_cli.py share file_to_send.txt martim1@example.com --permission READ
+
+
+- python client_cli.py register "Martim1" martim1@example.com 12345
+- python client_cli.py nonce martim1@example.com  
+- python client_cli.py login martim1@example.com 12345
+- python client_cli.py upload pasta_to_send
+- python client_cli.py read pasta_to_send
+- python client_cli.py share pasta_to_send martim@example.com --permission READ
+
+
+-----------//------------
+
+
+- python client_cli.py whoami
+- python client_cli.py sessions
+- python client_cli.py active
+- python client_cli.py --help
+- python client_cli.py logout     
+- python client_cli.py prune-sessions    
+- python client_cli.py set-terminal 1
+
+
+
+SIMULAÇÃO:
+
+(opcional)
+    - python client_cli.py sessions         - verifica quais sessões estão ativas, porque caso nao dês logout como deve ser a sessão vai continuar ativa, mesmo depois de encerrares o server
+    - python client_cli.py prune-sessions   - elimina todas as sessões que nao servem de nada
+    - python client_cli.py whoami           - diz a sessão em que estás
+    - python client_cli.py active           - parecido ao sessions, mas so te diz as sessões que estão BOAS para se utilizar, o session diz todas
+    - python client_cli.py logout           - dar logout como deve ser
+
+(run simples para se perceber oq acontece)
+    - python client_cli.py set-terminal 1
+    - python client_cli.py register "Martim" martim@example.com 12345
+    - python client_cli.py nonce martim@example.com
+    - python client_cli.py login martim@example.com 12345
+    - python client_cli.py upload file_to_send.txt
+    - python client_cli.py list-files
+        (vai aparecer o ficheiro do martim@example.com)
+    - python client_cli.py set-terminal 2
+    - python client_cli.py register "Joao" joao@example.com abcde
+    - python client_cli.py nonce joao@example.com
+    - python client_cli.py login joao@example.com 12345~
+    - python client_cli.py list-files
+        (vai aparecer vazio)
+    - python client_cli.py set-terminal 1
+    - python client_cli.py list-files
+        (vai aparecer o ficheiro do martim@example.com)
+    - python client_cli.py logout 
+    - python client_cli.py set-terminal 2
+    - python client_cli.py logout 

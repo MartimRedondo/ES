@@ -1,0 +1,23 @@
+## EXEMPLO - Não usar credenciais reais!
+
+email@example.com
+
+YourPasswordHere
+
+
+RETURN:
+
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUuY29tIiwiZXhwIjoxNzAwMDAwMDAwfQ.FAKE_SIGNATURE_DO_NOT_USE",
+  "token_type": "bearer"
+}
+
+AUTHORIZE:
+
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUuY29tIiwiZXhwIjoxNzAwMDAwMDAwfQ.FAKE_SIGNATURE_DO_NOT_USE
+
+---
+⚠️ IMPORTANTE: Este é apenas um exemplo!
+- NUNCA faça commit de tokens reais
+- NUNCA faça commit de credenciais reais
+- Use variáveis de ambiente para credenciais

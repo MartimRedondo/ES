@@ -1,0 +1,13 @@
+# Run Server
+uvicorn main_api:app --reload  
+
+################################ CLIENT ##############################################
+
+# Registar
+python client_cli.py register "João" joao@example.com 12345678
+
+# Login
+python client_cli.py login joao@example.com 12345678
+
+# Upload
+python client_cli.py upload file_to_send.txt
